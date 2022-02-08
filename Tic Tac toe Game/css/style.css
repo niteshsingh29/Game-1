@@ -1,0 +1,31 @@
+body{
+    font-family: sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.box{
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box-text {
+    font-size: 5vw;
+    font-weight: 400;
+}
+
+.gameContainer{
+    visibility: hidden;
+}
+
+.line{
+    height: 3px;
+    width: 20vw;
+    background-color: aqua;
+    position: absolute;
+    visibility: hidden;
+}
