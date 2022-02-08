@@ -1,1 +1,3 @@
-# Game-1
+# Game-1 
+
+Made with Pure Javascript.
